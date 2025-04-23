@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋, I'm Vansh Agarwal</h1>
 <p align="center">
-  🚀 Frontend Dev • 🎨 UI Designer • 🤖 Robotics Leader • 💻 Code Crafter
+  🚀 Frontend Dev • 🎨 UI Designer • 🤖 Robotics Club Vice President • 💻 Code Crafter
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+Designer+%7C+Hackathon+Lover;Vice+President+%40+IRIS+Robotics+NST+Pune;Let's+build+cool+things+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+Designer+%7C+Hackathon+Lover;Let's+build+cool+things+together!" alt="Typing SVG" />
 </p>
 
 ---
@@ -61,7 +61,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Vansh0204/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Vansh0204/Vansh0204/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
