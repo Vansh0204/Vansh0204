@@ -1,21 +1,15 @@
 <h1 align="center">Hey there 👋, I'm Vansh Agarwal</h1>
 <p align="center">
-  🚀 Frontend Developer • 🤖 Robotics Enthusiast • 🎨 UI Designer • 💻 Code Explorer
+  🚀 Frontend Dev • 🎨 UI Designer • 🤖 Robotics Leader • 💻 Code Crafter
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+Designer+%7C+Hackathon+Lover;Vice+President+%40+IRIS+Robotics+NST+Pune;Let's+build+cool+things+together!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌟 About Me
-
-Hi! I’m Vansh — a passionate creator who lives at the intersection of **technology and creativity**. Whether it’s crafting sleek UIs, writing efficient code, or leading robotics events, I’m all about building experiences that *inspire and innovate*.  
-
-🏫 Vice President at **IRIS Robotics Club**, NST Pune  
-🧠 Hackathon enthusiast | Problem solver | Team player  
-🎯 Focused on **creating digital experiences that leave a mark**
-
----
-
-## 💻 Tech Toolbox — My Favorite Weapons of Choice
+## 🔧 Tech Toolbox — My Favorite Weapons
 
 ### 🚀 Frontend
 <p>
@@ -26,39 +20,52 @@ Hi! I’m Vansh — a passionate creator who lives at the intersection of **tech
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
 </p>
 
-### 🧠 Backend / Logic
+### 🧠 Backend & Logic
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-### 🧰 Tools & Frameworks
+### 🛠️ Design & Tools
 <p>
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 🌐 Learning & Exploring
+### 🌱 Currently Exploring
 <p>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+---
+
+## 🏆 GitHub Highlights
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vansh0204&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-## 🧩 Projects & Contributions
+## 📊 GitHub Stats & Streaks
 
-✨ Building intuitive, dynamic UIs with React & Next.js  
-🤖 Leading and organizing tech-driven events in robotics  
-🧠 Brainstorming ideas, coding solutions, and shipping features in hackathons  
-🎯 Constantly learning and leveling up in design, logic, and teamwork
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh0204&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh0204&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔗 Let’s Connect!
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Vansh0204/Vansh0204/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://portfolio-2-0-murex-three.vercel.app" target="_blank">
@@ -71,16 +78,6 @@ Hi! I’m Vansh — a passionate creator who lives at the intersection of **tech
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh0204&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh0204&layout=compact&theme=radical">
+  💬 *"Code with passion. Create with purpose. Lead with curiosity."*
 </p>
-
----
-
-<p align="center">
-  💬 *"Create fearlessly. Learn endlessly. Code passionately."*
-</p>
-
