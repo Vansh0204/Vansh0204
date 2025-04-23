@@ -54,8 +54,8 @@ Hi! I’m Vansh — a passionate creator who lives at the intersection of **tech
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh0204&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh0204&layout=compact&theme=radical">
 </p>
 
 ---
