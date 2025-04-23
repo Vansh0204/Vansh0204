@@ -1,47 +1,66 @@
-# 👋 Hey there, I'm Vansh Agarwal!
-
-🎯 *Frontend Developer | Robotics Enthusiast | UI Designer | Code Explorer*
-
----
-
-## 🚀 About Me
-
-I'm a passionate frontend developer who loves blending creativity with code. With a strong interest in robotics and UI design, I enjoy building seamless digital experiences that not only work — but wow. Whether it’s coding sleek interfaces or leading robotics events, I bring energy and innovation to everything I do.
-
-👨‍💼 Vice President of **IRIS Robotics Club, NST Pune**  
-🏆 Active hackathon participant and techfest organizer  
-🛠️ Focused on writing clean, scalable, and creative code  
+<h1 align="center">Hey there 👋, I'm Vansh Agarwal</h1>
+<p align="center">
+  🚀 Frontend Developer • 🤖 Robotics Enthusiast • 🎨 UI Designer • 💻 Code Explorer
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🌟 About Me
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+Hi! I’m Vansh — a passionate creator who lives at the intersection of **technology and creativity**. Whether it’s crafting sleek UIs, writing efficient code, or leading robotics events, I’m all about building experiences that *inspire and innovate*.  
+
+🏫 Vice President at **IRIS Robotics Club**, NST Pune  
+🧠 Hackathon enthusiast | Problem solver | Team player  
+🎯 Focused on **creating digital experiences that leave a mark**
 
 ---
 
-## 🔗 Connect with Me
+## 🔧 Tech Stack & Tools
 
-- 🌐 [Portfolio Website](https://portfolio-2-0-murex-three.vercel.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/vansh-agarwal-0413j/)
-
----
-
-## 🛠️ Projects & Highlights
-
-- 🔧 Building creative UIs using **React & Next.js**
-- 🤖 Organizing robotic events and competitions at NST Pune
-- 🧠 Participating in multiple **hackathons** to solve real-world problems
-- 💡 Designing intuitive user interfaces that enhance user experience
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
 
 ---
 
-> “Stay curious, keep building, and never stop learning.” 🚀
+## 🧩 Projects & Contributions
 
-Thanks for stopping by! ⭐ Feel free to explore my repos and drop a ⭐ if something inspires you!
+✨ Building intuitive, dynamic UIs with React & Next.js  
+🤖 Leading and organizing tech-driven events in robotics  
+🧠 Brainstorming ideas, coding solutions, and shipping features in hackathons  
+🎯 Constantly learning and leveling up in design, logic, and teamwork
+
+---
+
+## 🔗 Let’s Connect!
+
+<p align="center">
+  <a href="https://portfolio-2-0-murex-three.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-16A085?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vansh-agarwal-0413j/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical">
+</p>
+
+---
+
+<p align="center">
+  💬 *"Create fearlessly. Learn endlessly. Code passionately."*
+</p>
+
