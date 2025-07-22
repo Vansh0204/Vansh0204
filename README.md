@@ -61,7 +61,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/ooalberto/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ooalberto/github-contribution-grid-snake.svg/main/github-contribution-grid-snake.svg)
 
 ---
 
