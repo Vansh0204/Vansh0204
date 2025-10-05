@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Vansh Agarwal</h1>
 <p align="center">
-  🚀 Frontend Dev • 🎨 UI Designer • 🤖 Robotics Club Vice President • 💻 Code Crafter
+  🚀 Frontend Dev • 🎨 UI Designer • 🤖 Robotics Club President • 💻 Code Crafter
 </p>
 
 <p align="center">
