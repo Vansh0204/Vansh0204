@@ -51,7 +51,7 @@
 ## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vansh0204&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh0204&theme=tokyonight" />
 </p>
 
 ---
