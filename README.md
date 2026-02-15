@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vansh0204&show_icons=true&theme=tokyonight&hide=prs&count_private=true&cache_seconds=86400&v=7" height="165" />
 
-  <img src="https://streak-stats.demolab.com?user=Vansh0204&theme=tokyonight&cache_seconds=86400&v=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vansh0204&theme=tokyonight" />
 </p>
 
 
