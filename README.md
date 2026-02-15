@@ -59,10 +59,9 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vansh0204&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vansh0204&show_icons=true&theme=tokyonight&hide=prs&count_private=true&cache_seconds=86400" height="165" />
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh0204&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Vansh0204&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 ---
