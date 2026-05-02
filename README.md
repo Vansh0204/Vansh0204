@@ -63,8 +63,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vansh0204&theme=tokyonight" />
-
-  <img src="https://streak-stats.demolab.com?user=Vansh0204&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 
